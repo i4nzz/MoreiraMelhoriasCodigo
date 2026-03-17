@@ -49,6 +49,6 @@ A cobertura atual é de 75%, enquanto o recomendado é pelo menos 80%. Isso sign
 
 ---
 
-## ✅ Conclusão
+## Conclusão
 
 O software ainda não está pronto para liberação. É necessário melhorar a qualidade através da correção de defeitos e aumento da cobertura de testes antes de disponibilizá-lo para uso.
